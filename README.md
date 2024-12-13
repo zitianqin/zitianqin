@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi there, I'm Zitian 👋
 
-<!--
-**zitianqin/zitianqin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 🔭 I’m currently working on [Discord Messenger Bot](https://github.com/zitianqin/Discord-Messenger-Bot) and a Study Timer!
+- 🌱 I’m currently learning web security and authentication practices.
+- 📫 How to reach me: Message me on [LinkedIn](https://www.linkedin.com/in/zitian-qin/) (preferred) or email me at zitianqinpublic@gmail.com.
+- ⚡ Fun fact: I write music in my spare time 🎶
 
-Here are some ideas to get you started:
+## My GitHub Stats
+![Zitian's GitHub stats](https://github-readme-stats.vercel.app/api?username=zitianqin&show_icons=true&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zitianqin&layout=compact&theme=radical)
